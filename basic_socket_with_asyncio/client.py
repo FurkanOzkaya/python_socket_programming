@@ -22,7 +22,7 @@ def send(msg):
 while True:
     a = input()
     send(a)
-send("Hello World 1")
-send("Hello MESSAGE 2")
-send("Hello MESSAGE 3")
-send("Hello MESSAGE 4")
+# send("Hello World 1")
+# send("Hello MESSAGE 2")
+# send("Hello MESSAGE 3")
+# send("Hello MESSAGE 4")
